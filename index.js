@@ -6,7 +6,7 @@
          'Content-Type': 'application/json'
     };
 
-axios.get(API_URL + 'servers', { headers })
+axios.get(`${config.url}` + 'servers', { headers })
     .then(response => {
         const unsafeServers = response.data.data.filter(server => !server.attributes.name.includes(`${config.keyword}`));
 
