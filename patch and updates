@@ -6,8 +6,8 @@ Status: Succes.
 }
 {
 First patch: 657a48befad625c5451c6ab223288a9e197e33a8
-Reason: Wrong variable was present changed to `${config.url}` from `API_URl`
-Status: Failure.
+Reason: Wrong variable was present changed to `${config.url}` from `APP_URL`
+Status: Succes.
 }
 Updates:
 Initial Commit: 1f684237b0b3ed63c2d2187b4c41ea0ba617c8de
