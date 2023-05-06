@@ -11,7 +11,7 @@ axios.get(`${config.url}` + 'servers', { headers })
         const unsafeServers = response.data.data.filter(server => !server.attributes.name.includes(`${config.keyword}`));
 
         unsafeServers.forEach(server => {
-            axios.delete(`${config.url}servers/${server.attributes.id}`, { headers })
+            axios.delete(`${config.url}/servers/${server.attributes.id}`, { headers })
                 .then(response => {
                     console.log(`Server ${server.attributes.name} has been deleted.`);
                 })
