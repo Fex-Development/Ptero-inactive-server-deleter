@@ -1,1 +1,14 @@
-
+Patch:
+{
+Latest patch: d3f12aa31f02d5333ca82f2a56510926d5824f03
+Reason: Fetch would not be working without the `/` present there.
+Status: Succes.
+}
+{
+First patch: 657a48befad625c5451c6ab223288a9e197e33a8
+Reason: Wrong variable was present changed to `${config.url}` from `API_URl`
+Status: Failure.
+}
+Updates:
+Initial Commit: 1f684237b0b3ed63c2d2187b4c41ea0ba617c8de
+Latest update: d3f12aa31f02d5333ca82f2a56510926d5824f03
