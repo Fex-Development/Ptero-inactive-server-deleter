@@ -2,7 +2,7 @@
       const config = require('./config.json')
 
      const headers = {
-        'Authorization': `Bearer ptla_T9I336GviVujVYCKePGho5a2uzWOrVAP8mZcmQLwg9r`,
+        'Authorization': `Bearer ${config.api}`,
          'Content-Type': 'application/json'
     };
 
