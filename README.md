@@ -14,3 +14,7 @@ node index
 # Not working?
 Check if your machines ip is whitelisted in cloudflare.
 If any other errors consider joining our (Discord)[https://discord.gg/d3eACkqyyT]
+
+## People who skidded:
+Cr072/holaclient: Used chatgpt/ai to make it using express app.post
+Prajwal: Just plainly skidded holaclient + doesn't know a shit about code.
