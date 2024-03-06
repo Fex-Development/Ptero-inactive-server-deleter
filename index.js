@@ -29,5 +29,5 @@ fetch(`${config.url}api/application/servers`, {
     });
 })
 .catch(error => {
-    console.log(`An error has slipped through our systems: ${error}`);
+    console.log(`A error has been spotted causing havoc in the process: ${error}`);
 });
