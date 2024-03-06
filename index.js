@@ -24,7 +24,7 @@ fetch(`${config.url}api/application/servers`, {
             console.log(`Server ${server.attributes.name} has been gased.`);
         })
         .catch(error => {
-            console.log(`An error allowed this server to exist ${server.attributes.name}: ${error}`);
+            console.log(`An error allowed this server to escape the gas ${server.attributes.name}: ${error}`);
         });
     });
 })
