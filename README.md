@@ -14,4 +14,4 @@ node index
 Verify if Cloudflare has added your machine's IP to its whitelist. If any errors happened that you were unable to fix, you might want to join [Discord](https://discord.gg/hRbtDP2UR6)
 
 ## People who skidded:
-Prajwal: Clearly skidded holaclient + has no programming knowledge.
+[Wisqdev](https://github.com/Wizqdev): Clearly skidded holaclient + has no programming knowledge.
