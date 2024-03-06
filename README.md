@@ -13,7 +13,7 @@ node index
 ```
 # Not working?
 Check if your machine's ip is whitelisted in cloudflare.
-If any unfixable errors for you occured then consider joining our (Discord)[https://discord.gg/d3eACkqyyT]
+If any unfixable errors for you occured then consider joining our [Discord](https://discord.gg/hRbtDP2UR6)
 
 ## People who skidded:
 Prajwal: Just plainly skidded holaclient + doesn't know a shit about code.
