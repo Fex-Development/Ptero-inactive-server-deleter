@@ -2,8 +2,7 @@
 Causes a Genocide on the pterodactyl panel.
 
 ## Warning!!!
-We are not responsible for any damage. The keyword in the server name should be the exact keyword in the config file!
-
+We are not responsible for any damage. The keyword placed in the config.json file should match the keyword in the server's name.
 # Installation
 ```
 git clone https://github.com/Fex-Development/Ptero-inactive-server-deleter
