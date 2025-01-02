@@ -1,4 +1,5 @@
 # Ptero-inactive-server-deleter
+# REACHED EOL
 Causes a Genocide on the pterodactyl panel.
 
 ## Warning!!!
